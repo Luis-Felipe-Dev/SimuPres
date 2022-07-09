@@ -3,9 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/DEV-2022/AndroidStudioProjects/SimuPres/app/src/main/res/layout/activity_login.xml" value="0.33" />
-        <entry key="..\:/Users/DEV-2022/AndroidStudioProjects/SimuPres/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
         <entry key="..\:/Users/luisf/AndroidStudioProjects/SimuPres/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/luisf/AndroidStudioProjects/SimuPres/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
   </component>
